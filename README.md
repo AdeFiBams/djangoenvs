@@ -1,0 +1,2 @@
+# djangoenvs
+django in virtualen
